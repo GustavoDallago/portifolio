@@ -245,23 +245,23 @@ span{
 @keyframes words{
     0%,
     20%{
-        content: "Analista de dados";
+        content: "Engenheiro de dados";
     }
     21%,
     40%{
-        content: "Auditor digital";
+        content: "Analsita de dados";
     }
     41%,
     60%{
-        content: "Analista de dados";
+        content: "Engenheiro de dados";
     }
     61%,
     80%{
-        content: "Auditor digital";
+        content: "Analsita de dados";
     }
     81%,
     100%{
-        content: "Analista de dados";
+        content: "Engenheiro de dados";
     }
 }
 @keyframes typing{
@@ -672,3 +672,4 @@ span{
       height: 500px;
     }
 }
+
