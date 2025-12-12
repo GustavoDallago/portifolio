@@ -245,23 +245,23 @@ span{
 @keyframes words{
     0%,
     20%{
-        content: "Engenheiro de dados";
+        content: " Engenheiro de dados";
     }
     21%,
     40%{
-        content: "Analsita de dados";
+        content: " Analsita de dados";
     }
     41%,
     60%{
-        content: "Engenheiro de dados";
+        content: " Engenheiro de dados";
     }
     61%,
     80%{
-        content: "Analsita de dados";
+        content: " Analsita de dados";
     }
     81%,
     100%{
-        content: "Engenheiro de dados";
+        content: " Engenheiro de dados";
     }
 }
 @keyframes typing{
@@ -672,4 +672,5 @@ span{
       height: 500px;
     }
 }
+
 
